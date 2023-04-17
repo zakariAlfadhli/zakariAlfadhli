@@ -1,6 +1,6 @@
 ![logo](https://scontent.fjed6-1.fna.fbcdn.net/v/t1.6435-9/129032816_3542420989181034_1154225044150275828_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=oUy_kmVL6G4AX_byxAe&_nc_ht=scontent.fjed6-1.fna&oh=00_AfA-Mg0Ycc6Y5NXCohAe5FSR88XtcdcpSey8C_20oqRA6A&oe=6464D2CD)
 <h1 align="center">Hi 👋, I'm Zakaria Alfadhli</h1>
-<h3 align="center">website and app developer from Yemen</h3>
+<h3 align="center">website and app developer from Sana'a</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
